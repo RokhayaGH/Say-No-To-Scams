@@ -1,0 +1,5 @@
+{
+  "name": "Say No to Scams",
+  "description": "An AI-powered scam detection prototype to analyze messages and audio for deceptive intent and deepfakes.",
+  "requestFramePermissions": ["microphone"]
+}
